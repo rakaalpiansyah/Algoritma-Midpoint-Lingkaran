@@ -1,5 +1,7 @@
 # 🎯 Midpoint Circle Algorithm - Visualizer
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Swing/AWT-007396?style=for-the-badge&logo=java&logoColor=white)
 
 Repositori ini berisi implementasi algoritma **Midpoint Circle** menggunakan bahasa pemrograman **Java**. Aplikasi ini tidak hanya menggambar lingkaran berdasarkan perhitungan piksel matematis, tetapi juga menyediakan antarmuka grafis (GUI) interaktif bergaya modern.
 
@@ -15,7 +17,7 @@ Proyek ini dikembangkan untuk memenuhi **Tugas Kelompok** mata kuliah **Grafika 
 
 ## 📸 Screenshots
 
-*(Nanti hapus tulisan ini dan ganti dengan gambar screenshot aplikasimu)*
+
 
 ## 🚀 Cara Menjalankan Program
 
