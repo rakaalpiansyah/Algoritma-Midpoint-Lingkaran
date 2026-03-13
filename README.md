@@ -35,7 +35,4 @@ Program ini ditulis menggunakan *library* standar bawaan Java (`javax.swing` dan
 2. Buka terminal/Command Prompt dan arahkan ke folder tempat file disimpan.
 3. *Compile* kode Java:
    ```bash
-
-
-
-
+   javac MidpointCircleSmooth.java
