@@ -16,6 +16,13 @@ Proyek ini dikembangkan untuk memenuhi **Tugas Kelompok** mata kuliah **Grafika 
 - ✅ **Modern UI/UX:** Antarmuka pengguna mengadopsi tema *Dark Mode* yang elegan dan responsif.
 
 ## 📸 Screenshots
+
+![Tampilan Utama Aplikasi](lib/images/image.png)
+> *Tampilan antarmuka utama dengan grid dan panel log koordinat.*
+
+![Fitur Panning](lib/images/image2.png)
+> *Demonstrasi kanvas yang dapat digeser untuk melihat lingkaran dengan radius besar di luar layar.*
+
 ## 🚀 Cara Menjalankan Program
 
 Program ini ditulis menggunakan *library* standar bawaan Java (`javax.swing` dan `java.awt`), sehingga **tidak memerlukan library eksternal** tambahan.
@@ -29,4 +36,5 @@ Program ini ditulis menggunakan *library* standar bawaan Java (`javax.swing` dan
 3. *Compile* kode Java:
    ```bash
    javac MidpointCircleSmooth.java
+
 
